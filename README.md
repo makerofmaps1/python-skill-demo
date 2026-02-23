@@ -18,6 +18,7 @@ data-practice-play-book/
 ├── 03_databases/
 ├── 04_apis/
 ├── 05_etl_patterns/
+├── 06_unit_tests/
 └── README.md
 ```
 
@@ -52,6 +53,15 @@ Planned API-focused examples (currently a placeholder).
 
 ### 05_etl_patterns
 Planned ETL architecture and patterns (currently a placeholder).
+
+### 06_unit_tests
+Staged unit testing track for learning and teaching:
+
+- `unittest` fundamentals
+- `pytest` workflows
+- Mocking and dependency isolation
+- Test design and coverage
+- Real project testing patterns
 
 ## Quick start
 
@@ -115,12 +125,14 @@ python 03_databases/sql_bulk_operations.py
 2. Move to `02_pandas` for data wrangling and analysis patterns.
 3. Continue with `03_databases` for SQL and production-minded DB workflows.
 4. Use `04_apis` and `05_etl_patterns` as your next expansion tracks.
+5. Follow `06_unit_tests` to build production-ready testing habits.
 
 ## Notes
 
 - Most scripts are self-contained and print output directly to the console.
 - Several modules intentionally demonstrate multiple approaches to the same task.
 - `04_apis` and `05_etl_patterns` are currently placeholders and can be expanded as the next milestones.
+- `06_unit_tests` is now a complete staged curriculum with runnable examples.
 
 ## Contributing ideas
 
